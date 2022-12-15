@@ -75,3 +75,16 @@ function convertKgtoLb(kg)
 }
 console.log('Convert Kgs to Lbs')
 console.log(convertKgtoLb(78))
+
+function length(city1, city2)
+{  if (city1.length > city2.length)
+        return city1
+
+}
+console.log(length('Washington', 'NewYork'))
+
+function addNumbers(x,y)
+{
+    return (x+y)
+}
+console.log(addNumber(2,3))
