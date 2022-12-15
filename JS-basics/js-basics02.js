@@ -88,3 +88,9 @@ function addNumbers(x,y)
     return (x+y)
 }
 console.log(addNumber(2,3))
+
+function subtractNumbers(x,y)
+{
+    return (x+y)
+}
+console.log(subtractNumbers(15,25))
