@@ -44,9 +44,9 @@ let country =
     name: 'USA',
     capital: 'Washington',
     noOfStates: 50,
-    attr: ('Niagara', 'washington', 'Hollywood', 'casino', 'beaches'),
-    languages: ('English', 'Spanish', 'French')
+    attr: ['Niagara', 'washington', 'Hollywood', 'casino', 'beaches'],
+    languages: ['English', 'Spanish', 'French']
 }
-//console.log(country.name)
-//console.log(country.languages[3])
-console.log(attr.indexOf('washington'))
+console.log(country.name)
+console.log(country.languages[2])
+console.log(country.attr.indexOf('washington'))

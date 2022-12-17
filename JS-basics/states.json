@@ -1,0 +1,118 @@
+{
+    [
+    {
+        "name": "Florida",
+        "capital": "Tallahassee",
+        "population": "21.75 million",
+        "location": "South-east",
+        "touristAttractions": [
+            "Disney",
+            "Miami Beach",
+            "Nasa",
+            "Universal Kingdom"
+        ]
+    },
+    {
+        "name": "New York",
+        "capital": "Albany",
+        "population": "54.55 million",
+        "location": "East coast",
+        "touristAttractions": [
+            "Empire state",
+            "Liberty",
+            "WTC",
+            "Central Park"
+        ]
+    },
+    {
+        "name": "California",
+        "capital": "Sacramento",
+        "population": "39.24 million",
+        "location": "East-coast",
+        "touristAttractions": [
+            "Hollywood",
+            "Disneyland",
+            "Golden gate Bridge",
+            "National Park"
+        ]
+    },
+    {
+        "name": "Washigton",
+        "capital": "Olympia",
+        "population": "7.739 million",
+        "location": "west-coast",
+        "touristAttractions": [
+            "Seattle",
+            "Olympic National Par",
+            "Mount Rainier",
+        ]
+    },
+    {
+        "name": "Tennesse",
+        "capital": "Nashville",
+        "population": "6.795 million",
+        "location": "middle",
+        "touristAttractions": [
+            "Smoky Mountains",
+            "Dollywood",
+            "Titanic Museum"
+        ]
+    },
+    {
+        "name": "New Jersey",
+        "capital": "Trenton",
+        "population": "7.267 million",
+        "location": "East coast",
+        "touristAttractions": [
+            "Liberty Park",
+            "Six Flage",
+            "Atlantic city"
+        ]
+    },
+    {
+        "name": "Massachusetts",
+        "capital": "Boston",
+        "population": "6.785 million",
+        "location": "East-coast",
+        "touristAttractions": [
+            "Capecod Beach",
+            "Fenway Park",
+            "Boston Teaparty"
+        ]
+    },
+    {
+        "name": "Texas",
+        "capital": "Austin",
+        "population": "29.53 million",
+        "location": "South",
+        "tourist-Attractions": [
+            "BigBend National Park",
+            "The Alamo",
+            "Caverns"
+        ]
+    },
+    {
+        "name": "South Carolina",
+        "capital": "Columbia",
+        "population": "6.795 million",
+        "location": "middle",
+        "touristAttractions": [
+            "Rivery bank",
+            "Fort Sumter",
+            "Brook Green"
+        ]
+    },
+    {
+        "name": "Vermont",
+        "capital": "MOntPeller",
+        "population": "6.5 million",
+        "location": "North",
+        "touristAttractions": [
+            "Stowe",
+            "Chruch Street Marketplace",
+            "Hilden",
+            "Ski resorts"
+        ]
+    }
+]
+}
