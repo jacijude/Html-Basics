@@ -1,19 +1,19 @@
 [
     {
-        "Name": "Asher",
-        "Address": {
-            "Add1": "123 Upper Street",
-            "Add2": "NJ 02502",
+        "name": "Asher",
+        "address": {
+            "add1": "123 Upper Street",
+            "add2": "NJ 02502",
         },
-        "Type": "Elementary school",
-        "Year-built": 2000,
-        "Sports": [
+        "type": "Elementary school",
+        "yearBuilt": 2000,
+        "sports": [
             "Basketball",
             "Soccer",
             "Baseball",
             "Wrestling"
         ],
-        "Clubs": [
+        "clubs": [
             "Yoga",
             "Book-club",
             "Drama-club",
@@ -21,21 +21,21 @@
         ]
     },
     {
-        "Name": "John-Kennedy",
-        "Address": {
-            "Add1": "324 Lower Street",
-            "Add2": "NJ 02555"
+        "name": "John-Kennedy",
+        "address": {
+            "add1": "324 Lower Street",
+            "add2": "NJ 02555"
         },
-        "Type": "Middle school",
-        "Year-built": 1995,
-        "Sports": [
+        "type": "Middle school",
+        "yearBuilt": 1995,
+        "sports": [
             "Basketball",
             "Soccer",
             "Baseball",
             "Wrestling",
             "Volley-ball"
         ],
-        "Clubs": [
+        "clubs": [
             "Yoga",
             "Book-club",
             "Drama-club",
@@ -44,17 +44,17 @@
         ]
     },
     {
-        "Name": "Lincoln",
-        "Address": "145, Portugese st, NY 08888",
-        "Type": "Upper Middle-school",
-        "Year-built": 1999,
-        "Sports": [
+        "name": "Lincoln",
+        "address": "145, Portugese st, NY 08888",
+        "type": "Upper Middle-school",
+        "yearBuilt": 1999,
+        "sports": [
             "Basketball",
             "Soccer",
             "Baseball",
             "Wrestling"
         ],
-        "Clubs": [
+        "clubs": [
             "Dance",
             "Book-club",
             "Drama-club",
@@ -62,11 +62,11 @@
         ]
     },
     {
-        "Name": "Monroe",
-        "Address": "288, Kinderjoy st, NY 55025",
-        "Type": "HighSchool",
-        "Year-built": 1990,
-        "Sports": [
+        "name": "Monroe",
+        "address": "288, Kinderjoy st, NY 55025",
+        "type": "HighSchool",
+        "yearBuilt": 1990,
+        "sports": [
             "Basketball",
             "Soccer",
             "Baseball",
@@ -74,7 +74,7 @@
             "Track",
             "Swimming"
         ],
-        "Clubs": [
+        "clubs": [
             "Dance",
             "Book-club",
             "Drama-club",
@@ -84,4 +84,3 @@
     }
 ]
 
-console.log(name.Schools.json)

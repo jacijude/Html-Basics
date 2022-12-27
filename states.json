@@ -1,5 +1,4 @@
-{
-    [
+[
     {
         "name": "Florida",
         "capital": "Tallahassee",
@@ -115,4 +114,3 @@
         ]
     }
 ]
-}
