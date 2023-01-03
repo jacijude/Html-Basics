@@ -53,8 +53,8 @@ function subtractNumbers(x,y)
         return (x-y)
 }
 console.log("Subtract Numbers")
-console.log(subtractNumbers(15,25))
-console.log(subtractNumbers(250,250))
+console.log(subtractNumbers(15,15))
+console.log(subtractNumbers(250,259))
 console.log(subtractNumbers(85214,55214))
 
 

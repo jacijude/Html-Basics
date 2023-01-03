@@ -71,7 +71,7 @@ console.log('7.Convert Kgs to Lbs')
 console.log(convertKgtoLb(78))
 
 
-miles = 5252
+miles = 5253
 {
     if (miles > 5000 && miles < 9999)
         console.log('True')

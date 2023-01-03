@@ -48,5 +48,5 @@ let country =
 console.log(country.name)
 console.log(country.languages[2])
 console.log(country.attr.indexOf('washington'))
-
+console.log(country.languages.indexOf('French'))
 
