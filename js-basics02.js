@@ -113,7 +113,7 @@ console.log(longestOf('Greenwood', 'Amboy'))
 
 
 states = ['Tennessee', 'Massachusetts', 'Florida', 'Pennsylvania', 'Washington', 'California', 'Iowa', 'utah']
-
+console.log("11. Shortest string in an array")
 console.log(
     states.reduce(function (a, b) {
         return a.length <= b.length ? a : b;
