@@ -119,11 +119,3 @@ console.log(
         return a.length <= b.length ? a : b;
     })
 )
-/*
-mames = ['jude', 'jacintha','daphne', 'Gretel', 'Adelyn']
-function reduce(a,b) {
-    return a.length <= b.length ? aa:bb; 
-        }
-        console.log(names.length)let names = ['Jacintha', 'Jude', 'Daphne', 'Gretel', 'Adelyn']
-console.log(shortestOf(names))
-*/
