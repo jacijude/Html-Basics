@@ -50,7 +50,7 @@ console.log(addNumbers(510,75555))
 
 function subtractNumbers(x,y)
 {
-    return (x-y)
+        return (x-y)
 }
 console.log("Subtract Numbers")
 console.log(subtractNumbers(15,25))
